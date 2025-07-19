@@ -698,6 +698,706 @@
       "d": "Greek and Latin scholars"
     },
     "correctAnswer": "c"
+  },
+  {
+    "id": 51,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "What was the income of all the six countries together in the year 2023 if the total imports of all these countries together was ₹ 770 cores in the same year?",
+    "options": {
+      "a": "₹ 250 crores",
+      "b": "₹ 320 crores",
+      "c": "₹ 560 crores",
+      "d": "₹ 480 crores"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 52,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "In the year 2019, if the ratio of exports to imports for country D and country F are 1:2 and 4:1, respectively, then what is the total import of countries F and D together in the same year?",
+    "options": {
+      "a": "₹ 104 crores",
+      "b": "₹ 184 crores",
+      "c": "₹ 192 crores",
+      "d": "₹ 130 crores"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 53,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "If the export of country A in the year 2024 is 20% more than the combined export of country B in 2022 and the export of country E in 2021 together, then what is the income of country A (in ₹ crore) in the year 2024, if its import is ₹ 184 crore for that year?",
+    "options": {
+      "a": "106",
+      "b": "44",
+      "c": "92",
+      "d": "68"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 54,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Over all the given years, the average export of country E is ______ % more than the average export of country C.",
+    "options": {
+      "a": "13 7/11",
+      "b": "9 1/11",
+      "c": "13 5/7",
+      "d": "12 1/7"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 55,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which country showed the highest percentage increase in exports from 2019 to 2023?",
+    "options": {
+      "a": "Country A",
+      "b": "Country B",
+      "c": "Country F",
+      "d": "Country E"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 56,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Reena wanted to eat an ice-cream. She took out a phone number online. She repeated the number over and over again while dialing. After order was delivered she forgot the number. This is an example of the use of which memory process?",
+    "options": {
+      "a": "Short-term memory",
+      "b": "Automatic Processing",
+      "c": "Echoic Memory",
+      "d": "Iconic Memory"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 57,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The contents of Swayamprabha channel -4 with the theme of 'Education and Home Science' are provided by:",
+    "options": {
+      "a": "CEC, New Delhi",
+      "b": "IIT, Madras",
+      "c": "IGNOU, New Delhi",
+      "d": "IIT Delhi"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 58,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which higher-order knowledge can make the difference between how well and quickly one's students learn material?",
+    "options": {
+      "a": "Declarative",
+      "b": "Rote",
+      "c": "Metacognition",
+      "d": "Procedural"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 59,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which of the following are the interactive whiteboard softwares that allow teachers to create digital lessons, annotate documents and collaborate with students in real time?",
+    "options": {
+      "a": "B and C only",
+      "b": "A, C and D only",
+      "c": "C, D and E only",
+      "d": "A, B and E only"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 60,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "In which type of assessment do students measure their own progress against their previous performance rather than against external criteria or peers?",
+    "options": {
+      "a": "Peer Assessment",
+      "b": "Ipsative Assessment",
+      "c": "Formative Assessment",
+      "d": "Summative Assessment"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 61,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which of the following represents the epistemological orientation of quantitative research?",
+    "options": {
+      "a": "Interpretivism",
+      "b": "Constructionism",
+      "c": "Positivism",
+      "d": "Inductivism"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 62,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "A measure of the consistency of observations of a single situation made by different people refers to.",
+    "options": {
+      "a": "Construct validity",
+      "b": "Internal validity",
+      "c": "Split-Half reliability",
+      "d": "Interrator reliability"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 63,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The approach in which researchers use the existing data to create groups for comparison is called",
+    "options": {
+      "a": "Operational",
+      "b": "Ex post facto",
+      "c": "Experimental",
+      "d": "Quasi-experimental"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 64,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Identify the nominal variables.",
+    "options": {
+      "a": "A, B, C and D only",
+      "b": "A and C only",
+      "c": "B and E only",
+      "d": "A, B, C and E only"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 65,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Arrange the probabilities corresponding to the standard normal variate 'z' lying in the following intervals, in increasing order.",
+    "options": {
+      "a": "D, B, C, A",
+      "b": "C, B, D, A",
+      "c": "A, C, B, D",
+      "d": "B, D, A, C"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 66,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "In communication, a text is a product of.",
+    "options": {
+      "a": "Non-responsiveness",
+      "b": "Military exercises",
+      "c": "Social interaction",
+      "d": "Neurological research"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 67,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The idea that mass media do not have much power to directly influence the audience led to the concept of.",
+    "options": {
+      "a": "Limited effects",
+      "b": "Mass effects",
+      "c": "Individual effects",
+      "d": "Regulated effects"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 68,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which of the following are considered hot media?",
+    "options": {
+      "a": "A, B, C only",
+      "b": "B, C, D only",
+      "c": "C, D, E only",
+      "d": "A, D, E only"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 69,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which of the following social sciences have contributed much to the knowledge of mass communication?",
+    "options": {
+      "a": "A, D, E only",
+      "b": "C, D, E only",
+      "c": "B, C, D only",
+      "d": "A, B, C only"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 70,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "60 persons consume 300 kg of wheat in 40 days. In how many days will 25 persons consume 100 kg of wheat?",
+    "options": {
+      "a": "28 days",
+      "b": "30 days",
+      "c": "32 days",
+      "d": "35 days"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 71,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Find the next term in the number series 2A11, 4D13, 12G17, 48J23, ______.",
+    "options": {
+      "a": "245N32",
+      "b": "228L30",
+      "c": "240M31",
+      "d": "230M29"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 72,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "By selling 35 eggs for Rs 30, a man loses 25%. How many eggs should he sell for Rs 144 to gain 20%?",
+    "options": {
+      "a": "85",
+      "b": "95",
+      "c": "105",
+      "d": "115"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 73,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "A sum of money becomes 8 times of itself in 3 years at compound interest. The rate of interest per annum is",
+    "options": {
+      "a": "60%",
+      "b": "50.4%",
+      "c": "54.6%",
+      "d": "49.6%"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 74,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Identify the fallacy committed in the following statement: 'Water is nonpoisnous compound. Therefore, its components oxygen and hydrogen are nonpoisnous'.",
+    "options": {
+      "a": "Fallacy of Division",
+      "b": "Equivocation",
+      "c": "Slippery Slope",
+      "d": "Hasty Generalization"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 75,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which of the following two statements cannot both be true but can both be false?",
+    "options": {
+      "a": "A and D only",
+      "b": "A and C only",
+      "c": "B and C only",
+      "d": "B and D only"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 76,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Identify the sequence of words A-E that correctly fills the blanks in the following paragraph: In the context of human-computer interaction, a ______ is an interface built around visual things and Windows-11 is an example of an ______ with these visual things. ______ is region of the screen used to display information. ______ is a small picture that is used to represent folders, software etc., whereas ______ is a list of options that the user can select from.",
+    "options": {
+      "a": "E, A, C, B, D",
+      "b": "A, E, D, C, B",
+      "c": "E, A, C, D, B",
+      "d": "B, C, A, E, D"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 77,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Match the List-I with List-II",
+    "options": {
+      "a": "A-III, B-IV, C-I, D-II",
+      "b": "A-II, B-IV, C-I, D-III",
+      "c": "A-I, B-II, C-III, D-IV",
+      "d": "A-II, B-I, C-IV, D-III"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 78,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which of the following Green House Gases (GHGs) was considered during the second compliance period of Kyoto protocol at Doha?",
+    "options": {
+      "a": "Sulphur Hexafluoride (SF6)",
+      "b": "Hydrofluoro Carbons (HFCs)",
+      "c": "Nitrogen Trifluoride (NF3)",
+      "d": "Perfluorocarbons (PFCs)"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 79,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which of the following is an example of negative feed back in the context of climate change?",
+    "options": {
+      "a": "Oceans remove carbon dioxide from the air",
+      "b": "Warming increases water vapour in air",
+      "c": "Snow cover loss and iceshelf melt reduce sun's reflection",
+      "d": "Global temperature increases due to global warming"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 80,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "A British official of the East India company who was interested in higher learning in India was.",
+    "options": {
+      "a": "Francis Gladwin",
+      "b": "William Ward",
+      "c": "William Adam",
+      "d": "William Jones"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 81,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The National Education policy, 2020 supported the idea of:",
+    "options": {
+      "a": "Science only education",
+      "b": "Fragmented research",
+      "c": "Rigorous specialization",
+      "d": "Segregating humanities and science"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 82,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The components of quality education identified in the national education policy of 2020 are:",
+    "options": {
+      "a": "A, B only",
+      "b": "B, C, D only",
+      "c": "C, D, E only",
+      "d": "A, C, E only"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 83,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "In Rig-veda, Agni is connected with.",
+    "options": {
+      "a": "The world immediately above the one in which we live in",
+      "b": "Sacrifices",
+      "c": "Souls with everlasting bliss",
+      "d": "The gods of Wisdom"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 84,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "According to Rig-Veda, Jñāna refers to.",
+    "options": {
+      "a": "Primitive culture",
+      "b": "Predominance of sacrifice",
+      "c": "Everlasting bliss",
+      "d": "The gods of the highest world that are connected with sacrifices"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 85,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The optimistic tone regarding man's life in this world and his/ her future in the other world exists in:",
+    "options": {
+      "a": "The Yajur-Veda",
+      "b": "The Sāma-Veda",
+      "c": "The Atharva Veda",
+      "d": "Rig-Veda"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 86,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "At the time of Rig Veda, the rsis valued jñāna as means.",
+    "options": {
+      "a": "To find signs of a gloomier side in man's life",
+      "b": "To sacrifice and dissociate",
+      "c": "To find release from the world of physical bondage",
+      "d": "To rule and regulate"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 87,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "What is the original source of cultural life of the Hindus?",
+    "options": {
+      "a": "Itihāsas",
+      "b": "Purānas",
+      "c": "Manu",
+      "d": "Sacred Vedas"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 88,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which of the following statements about the Vedas is correct?",
+    "options": {
+      "a": "Yajur-Veda is the most important for studying ancient Indian culture",
+      "b": "Sāma-Veda contains philosophical discussions",
+      "c": "Rig-Veda is primarily connected with sacrifices",
+      "d": "Atharva-Veda is the oldest Veda"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 89,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The concept of 'karma' in Rig-Veda is primarily associated with:",
+    "options": {
+      "a": "Worldly pleasures",
+      "b": "Spiritual progress",
+      "c": "Political administration",
+      "d": "Economic activities"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 90,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which of the following is NOT mentioned as covetable objects in the Yajur-Veda?",
+    "options": {
+      "a": "Gold",
+      "b": "Ornaments",
+      "c": "Cows",
+      "d": "Land"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 91,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The term 'jñāna' in the Rig-Veda context refers to:",
+    "options": {
+      "a": "Ritual knowledge",
+      "b": "Esoteric knowledge",
+      "c": "Agricultural knowledge",
+      "d": "Astronomical knowledge"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 92,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which god is NOT mentioned as being connected with sacrifices in the Rig-Veda?",
+    "options": {
+      "a": "Agni",
+      "b": "Indra",
+      "c": "Varuna",
+      "d": "Vishnu"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 93,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The Rig-Veda primarily emphasizes:",
+    "options": {
+      "a": "Material wealth",
+      "b": "Sacrificial rituals",
+      "c": "Philosophical speculation",
+      "d": "Social hierarchy"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 94,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which of the following statements about the relationship between the Vedas is correct?",
+    "options": {
+      "a": "They have completely different cultural perspectives",
+      "b": "They show no continuity in religious thought",
+      "c": "They share fundamental cultural and religious concepts",
+      "d": "They represent opposing philosophical systems"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 95,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The reference to cows in thousands in the Yajur-Veda indicates:",
+    "options": {
+      "a": "Agricultural prosperity",
+      "b": "Sacrificial requirements",
+      "c": "Pastoral economy",
+      "d": "All of the above"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 96,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The Rig-Vedic concept of spiritual progress involves:",
+    "options": {
+      "a": "Karma alone",
+      "b": "Jñāna alone",
+      "c": "Both karma and jñāna",
+      "d": "Neither karma nor jñāna"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 97,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which of the following best describes the Rig-Vedic view of the afterlife?",
+    "options": {
+      "a": "Pessimistic",
+      "b": "Optimistic",
+      "c": "Ambivalent",
+      "d": "Non-existent"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 98,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The 'rsis' in the Rig-Veda period were primarily:",
+    "options": {
+      "a": "Warriors",
+      "b": "Philosophers and seers",
+      "c": "Traders",
+      "d": "Administrators"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 99,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The mention of gold and ornaments in the Yajur-Veda suggests:",
+    "options": {
+      "a": "A simple, austere lifestyle",
+      "b": "The importance of material wealth",
+      "c": "Advanced metallurgy",
+      "d": "Trade connections"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 100,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The ultimate goal of spiritual progress in the Rig-Veda is:",
+    "options": {
+      "a": "Political power",
+      "b": "Economic prosperity",
+      "c": "Release from physical bondage",
+      "d": "Social status"
+    },
+    "correctAnswer": "c"
   }
 ]
 
