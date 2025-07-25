@@ -132,7 +132,7 @@ const MockTestInterface = () => {
 
 
 useEffect(()=>{
-   const year="2022";
+   const year="2022 October";
    if(mockQuestions[year]){
     setSelectedYearQuestion(year);
     setCurrentQuestion(1);

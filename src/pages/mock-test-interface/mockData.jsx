@@ -1,6 +1,6 @@
  const  mockQuestions = 
 {
-  "2022":[
+  "2022 October":[
   {
     "id": 1,
     "category": "Paper I",
@@ -701,8 +701,722 @@
     },
     "correctAnswer": "b"
   }
+],
+"2021 December":[
+  {
+    "id": 1,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Total runs scored by the batsman against New Zealand in T20 matches are approximately what percent (%) of the total runs scored against Pakistan in ODI matches?",
+    "options": {
+      "a": "64 %",
+      "b": "66 %",
+      "c": "62 %",
+      "d": "68 %"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 2,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "In the case of which of the following countries, the difference between the runs scored by the batsman in ODI and T20 is the second lowest?",
+    "options": {
+      "a": "Sri Lanka",
+      "b": "Pakistan",
+      "c": "South Africa",
+      "d": "West Indies"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 3,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "If the batsman played 14 innings against Sri Lanka in ODI and remained not out in 5 innings, then the average runs scored by the batsman against Sri Lanka are:",
+    "options": {
+      "a": "28",
+      "b": "24",
+      "c": "26",
+      "d": "22"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 4,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The runs scored by the batsman against West Indies in T20 are approximately what percent (%) of the runs scored against Australia in ODI?",
+    "options": {
+      "a": "71 %",
+      "b": "75 %",
+      "c": "73 %",
+      "d": "69 %"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 5,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "If the batsman had scored 280 runs against Pakistan in T20 matches, then what would have been the percentage of runs scored by the batsman in the T20 matches against all other countries (Assuming that the total runs scored by the batsman in T20 remains the same (that is 2000))?",
+    "options": {
+      "a": "88 %",
+      "b": "84 %",
+      "c": "86 %",
+      "d": "90 %"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 6,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Given below are two statements: One is labelled as Assertion (A) and the other is labelled as Reason (R): Assertion (A): Long term low emission development strategies by each country are crucial to realizing the goals of Paris Agreement. Reason (R): Nationally Determined Contributions (NDCs) declared by each country are not sufficient to keep the rise in global temperature up to above the pre-industrial level. In the light of the above statements, choose the most appropriate answer from the options given below:",
+    "options": {
+      "a": "Both (A) and (R) are correct and (R) is the correct explanation of (A)",
+      "b": "Both (A) and (R) are correct but (R) is NOT the correct explanation of (A)",
+      "c": "(A) is correct but (R) is not correct",
+      "d": "(A) is not correct but (R) is correct"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 7,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Ankur receives an email informing him that his credit card is going to be cancelled. The email advises him to click on the provided link and sign into his online banking account to prevent this from happening, which he does. A week later, Ankur notices that ₹ 10.000 has been withdrawn from his bank account. What has Ankur fallen victim to?",
+    "options": {
+      "a": "A phishing scam",
+      "b": "A Trojan horse",
+      "c": "Online blackmail",
+      "d": "A virus"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 8,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Factors that contribute for effective classroom communication are: (A) Information overload (B) Use of unfamiliar words (C) Balanced flow of words (D) Circular flow of messages (E) Mechanism to assess the feedback Choose the most appropriate answer from the options given below:",
+    "options": {
+      "a": "(A), (B), (C) only",
+      "b": "(B), (C), (D) only",
+      "c": "(A), (D), (E) only",
+      "d": "(C), (D), (E) only"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 9,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Given below are two statements Statement I: A number is divisible by 3, if the sum of its digits is divisible by 3. Statement II: A number is divisible by 9, if the sum of its digits is not divisible by 9. In the light of the above statement, choose the most appropriate answer from the options given below:",
+    "options": {
+      "a": "Both Statement I and Statement II are correct",
+      "b": "Both Statement I and Statement II are incorrect",
+      "c": "Statement I is correct but Statement II is incorrect",
+      "d": "Statement I is incorrect but Statement II is correct"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 10,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "At what angle the hands of a clock are inclined at 15 minutes past 5?",
+    "options": {
+      "a": "58½°",
+      "b": "67½°",
+      "c": "68½°",
+      "d": "72½°"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 11,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Given below are two statements: Statement I: If an article is sold at a gain of 19 %, then selling price is 109 % of cost price. Statement II: If an article is sold at a loss of 9 %, then selling price is 109 % of cost price. In the light of the above statements, choose the most appropriate answer from the options given below:",
+    "options": {
+      "a": "Both Statement I and Statement II are correct",
+      "b": "Both Statement I and Statement II are incorrect",
+      "c": "Statement I is correct but Statement II is incorrect",
+      "d": "Statement I is incorrect but Statement II is correct"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 12,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which of the following modality of higher education is the example of evolution in the post-independence India?",
+    "options": {
+      "a": "Teacher Education",
+      "b": "Technical Education",
+      "c": "Legal Education",
+      "d": "Distance Education"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 13,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Given below are two statements: Statement I: The content and style of communication are the predictor variables of effective teaching. Statement II: A good and communicative teacher evokes relatively less questions from the students. In the light of the above statements, choose the correct answer options given below:",
+    "options": {
+      "a": "Both Statement I and Statement II are true",
+      "b": "Both Statement I and Statement II are false",
+      "c": "Statement I is correct but Statement II is false",
+      "d": "Statement I is incorrect but Statement II is true"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 14,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "'Upanaya' in Indian Nyaya Syllogism corresponds to which of the following in Aristotelian Syllogism?",
+    "options": {
+      "a": "Major premise",
+      "b": "Minor premise",
+      "c": "Conclusion",
+      "d": "Both major and minor premises"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 15,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Match list I with List II",
+    "options": {
+      "a": "(A) – (IV), (B) – (III), (C) – (II), (D) – (I)",
+      "b": "(A) – (I), (B) – (II), (C) – (III), (D) – (IV)",
+      "c": "(A) – (II) (B) – (III), (C) – (IV), (D) – (I)",
+      "d": "(A) – (III), (B) – (IV), (C) – (I), (D) – (II)"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 16,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The difference between the squares of two consecutive numbers is 35. The smaller number is",
+    "options": {
+      "a": "14",
+      "b": "15",
+      "c": "16",
+      "d": "17"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 17,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Given below are two statements: Statement I: Computer based testing ensures high reliability and validity in the process of evaluation centred on effective and conative domains of behaviour. Statement II: Support materials in the form of programmed instructional models have a tremendous potential to maximize learning. In the light of the above statements, choose the correct answer from the options given below:",
+    "options": {
+      "a": "Both Statement I and Statement II are true",
+      "b": "Both Statement I and Statement II are false",
+      "c": "Statement I is correct but Statement II is false",
+      "d": "Statement I is incorrect but Statement II is true"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 18,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Identify the correct sequence (decreasing order) of lifetimes of the following greenhouse gases in atmosphere: (A) Methane (B) Nitrous oxide (C) Surface ozone (D) CFC-11 Choose the correct answer from the options given below:",
+    "options": {
+      "a": "(D) > (B) > (A) > (C)",
+      "b": "(B) > (D) > (A) > (C)",
+      "c": "(B) > (D) > (C) > (A)",
+      "d": "(D) > (B) > (C) > (A)"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 19,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Given below are two statements: Statement I: The goal of inquiry ' in fundamental research is directed at bringing an increment in the fund of knowledge. Statement II: Action research is research by the practitioner, for the practitioner and of the practitioner. In the light of the above statements, choose the correct answer options given below:",
+    "options": {
+      "a": "Both Statement I and Statement II are true",
+      "b": "Both Statement I and Statement II are false",
+      "c": "Statement I is correct but Statement II is false",
+      "d": "Statement I is incorrect but Statement II is true"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 20,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Given below are two statements: Statement I: Two sounds of same intensity but different frequency characteristics may appear to be of different loudness. Statement II: The response of human ear to noise of different frequencies is not uniform. In the light of the above statements, choose the most appropriate answer from the options given below:",
+    "options": {
+      "a": "Both Statement I and Statement II are correct",
+      "b": "Both Statement I and Statement II are incorrect",
+      "c": "Statement I is correct but Statement II is incorrect",
+      "d": "Statement I is incorrect but Statement II is correct"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 21,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "For optimizing learning outcomes which of the following factors have been identified as most effective in terms of research evidences in the global context?",
+    "options": {
+      "a": "Home related factors",
+      "b": "School related factors",
+      "c": "Teacher related factors",
+      "d": "Supplementary technological devices related factors"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 22,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Find odd one out in from the following: 5, 7, 12, 17,19, 23",
+    "options": {
+      "a": "7",
+      "b": "12",
+      "c": "17",
+      "d": "19"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 23,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Given below are two statements: Statement I: The value of hexadecimal number 21 is 33 in decimal number system. Statement II: The value of binary number 1110 is 14 in decimal number system. In the light of the above statements, choose the correct answer from the options given below:",
+    "options": {
+      "a": "Both Statement I and Statement II are true",
+      "b": "Both Statement I and Statement II are false",
+      "c": "Statement I is correct but Statement II is false",
+      "d": "Statement I is incorrect but Statement II is true"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 24,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Identify the correct order of following different types of storage/memory components in a computer on the basis of price per bytes of storage from most expensive to least expensive: (A) DDR4 RAM (B) HDD (C) SSD (D) CPU Cache Choose the correct answer from the options given below:",
+    "options": {
+      "a": "(A), (D), (C), (B)",
+      "b": "(D), (A), (C), (B)",
+      "c": "(A), (B), (C), (D)",
+      "d": "(D), (A), (B), (C)"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 25,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Given below are two statements: Statement I: Hurricanes and typhoons are essentially the same as tropical cyclones. Statement II: Warm tropical oceans and moist air mass are pre-requisites for the development of tropical cyclones In the light of the above statements, choose the most appropriate from the options given below:",
+    "options": {
+      "a": "Both Statement I and Statement II are correct",
+      "b": "Both Statement I and Statement II are incorrect",
+      "c": "Statement I is correct but Statement II is incorrect",
+      "d": "Statement I is incorrect but Statement II is correct"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 26,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "For ensuring effective administration which of the following is most difficult?",
+    "options": {
+      "a": "Changing the knowledge of individuals and groups",
+      "b": "Changing the skill of individuals and groups",
+      "c": "Changing the attitude of individuals and groups",
+      "d": "Changing the behaviour of individuals and groups"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 27,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Match List I with List II",
+    "options": {
+      "a": "(A) – (II), (B) – (I), (C) – (III), (D) – (IV)",
+      "b": "(A) – (III), (B) – (I), (C) – (II), (D) – (IV)",
+      "c": "(A) – (III), (B) – (IV), (C) – (II), (D) – (I)",
+      "d": "(A) – (IV), (B) – (I), (C) – (II), (D) – (III)"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 28,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "'Fire is not warm because it is produced such as water', is an example of which type of fallacy?",
+    "options": {
+      "a": "Satpratipraksha",
+      "b": "Badhit-vishaya",
+      "c": "Virudha",
+      "d": "Swaroopasidha"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 29,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "List I gives stages of development of values while List II their outcomes Match List I with List II:",
+    "options": {
+      "a": "(A) – (II), (B) – (III), (C) – (I), (D) – (IV)",
+      "b": "(A) – (I), (B) – (II), (C) – (IV), (D) – (III)",
+      "c": "(A) – (IV), (B) – (I), (C) – (III), (D) – (II)",
+      "d": "(A) – (III), (B) – (IV), (c) – (II), (D) – (I)"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 30,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Announcement of arrival and departure of trains at railway stations is:",
+    "options": {
+      "a": "Spatial communication",
+      "b": "Organizational communication",
+      "c": "Public communication",
+      "d": "Sectional communication"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 31,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Identify the correct sequence of cognitive behaviours in the taxonomy of educational objectives: (A) Knowledge (B) Application (C) Understanding (D) Analysis (E) Synthesis Choose the correct answer from the options given below:",
+    "options": {
+      "a": "(A), (B), (C), (D) and (E)",
+      "b": "(D), (E), (A), (B) and (C)",
+      "c": "(A), (C), (B), (D) and (E)",
+      "d": "(D), (E), (A), (C) and (B)"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 32,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "From the following, identify those which are called non-probability sampling procedures: (A) Systematic sampling (B) Quota sampling (C) Stratified sampling (D) Purposive sampling (E) Snowball sampling Choose the correct answer from the options given below:",
+    "options": {
+      "a": "(A), (B) and (C) only",
+      "b": "(B), (C) and (D) only",
+      "c": "(B), (D) and (E) only",
+      "d": "(C), (D) and (E) only"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 33,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The knowledge of the relation between name and an object denoted by that name is called:",
+    "options": {
+      "a": "Verbal testimony",
+      "b": "Implication",
+      "c": "Inference",
+      "d": "Comparison"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 34,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Given below are two statements: Statement I: The vice-chancellor of a university is an executive head who is vested with administrative as well as academic responsibilities. Statement II: For a charismatic leadership attribute in a vice chancellor both transactional as well as transformational leadership competencies are needed. In the light of the above statements, choose the correct answer from the options given below:",
+    "options": {
+      "a": "Both Statement I and Statement II are true",
+      "b": "Both Statement I and Statement II are false",
+      "c": "Statement I is correct but Statement II is false",
+      "d": "Statement I is incorrect but Statement II is true"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 35,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "What is the hallmark of reflective teaching?",
+    "options": {
+      "a": "Clear, organized and well-structured content",
+      "b": "Personalized, interactive and high level of cognitive interchange",
+      "c": "Systematic, planned and quick question answer session",
+      "d": "Logical, coherent and example-based presentations"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 36,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Given below are some metals which are released into environment from a variety of anthropogenic sources. Identify the metals which have been of serious concern from the point of view of pollution of water bodies (A) Aluminum (B) Copper (C) Mercury (D) Cadmium (E) Lead Choose the most appropriate answer from the options given below:",
+    "options": {
+      "a": "(B), (C), (E) only",
+      "b": "(A), (B), (C), (E) only",
+      "c": "(C), (D), (E) only",
+      "d": "(A), (B), (E) only"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 37,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Given below are two statements: Statement I: A company-wide network, closed to public access, which uses internet-type technology is called World Wide Web. Statement II: MODEM is a device that enables a computer to communicate over telephone lines. In the light of the above statements, choose the correct answer from the options given below:",
+    "options": {
+      "a": "Both Statement I and Statement II are true",
+      "b": "Both Statement I and Statement II are false",
+      "c": "Statement I is correct but Statement II is false",
+      "d": "Statement I is incorrect but Statement II is true"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 38,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The education imported through institutions of higher learning in India such as Sanskrit 'Vidyapith' is an example of",
+    "options": {
+      "a": "Non-conventional learning programmes",
+      "b": "Value Education Programmes",
+      "c": "Oriental learning Programmes",
+      "d": "Professional education programmes"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 39,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "In establishing a research problem for a Ph. D. level course, in the initial stage which of the following stages are crucial? (A) Hypothesis making (B) Locating a problem area from a field through survey of related literature (C) Defining the population of research and its characteristics (D) Selecting a pointed issue called a problem by a process of logical analysis (E) Defining and delimiting the problem Choose the correct answer from the options given below",
+    "options": {
+      "a": "(B), (D) and (E) only",
+      "b": "(B), (C) and (D) only",
+      "c": "(A), (B) and (C) only",
+      "d": "(C), (D) and (E) only"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 40,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Find out the correct sequence of the following transmissions: (A) Narrowcasting (B) Telegraph (C) Broadcasting (D) Telephone (E) Podcasting Choose the correct answer from the options given below:",
+    "options": {
+      "a": "(A), (C), (B), (E), (D)",
+      "b": "(B), (D), (C), (A), (E)",
+      "c": "(C), (D), (E), (A), (B)",
+      "d": "(D), (E), (A), (B), (C)"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 41,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which arguments may be advanced in support of action research in education?",
+    "options": {
+      "a": "The researcher breaks fresh ground in the field of enquiry.",
+      "b": "The knowledge is applied to extend further generalization.",
+      "c": "Some new principles are formulated for explaining",
+      "d": "The educational situation as well as the practitioner of education undergo a change for the better."
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 42,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Given below are two statements: Statement I: Keval vyatireki form of inference is that when the middle term is the differentium of the minor term. Statement II: Kevalanvayi form of inference is that when the middle term is both positively and negatively related to the major term. In the light of the above statements, choose the correct answer from the options given below:",
+    "options": {
+      "a": "Both Statement I and Statement II are true",
+      "b": "Both Statement I and Statement II are false",
+      "c": "Statement I is correct but Statement II is false",
+      "d": "Statement I is incorrect but Statement II is true"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 43,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The critical difference between experimental and ex post facto research lies in terms of:",
+    "options": {
+      "a": "Selection of sample",
+      "b": "Causal connection between two variables",
+      "c": "Use of research tools",
+      "d": "Control and manipulation of independent variable"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 44,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "In which scale of measurement, classification, order and equality of units are ensured?",
+    "options": {
+      "a": "Ordinal",
+      "b": "Nominal",
+      "c": "Interval",
+      "d": "Ratio"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 45,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Identify the characteristics of the 'middle term' from the following: (A) It must be present in the minor term (B) It must be present in all positive instances in which the major term is present (C) It is the logical statement which is to be proved (D) It must be absent in all negative instances in which major term is absent (E) It is drawn from the preceding propositions Choose the correct answer from the options given below:",
+    "options": {
+      "a": "(A), (B) and (C) only",
+      "b": "(B), (C) and (D) only",
+      "c": "(C), (D) and (E) only",
+      "d": "(A), (B) and (D) only"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 46,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "How can we realize the Divine Presence?",
+    "options": {
+      "a": "By searching for the divine",
+      "b": "By recognizing its presence within us",
+      "c": "By reaching the innermost space",
+      "d": "By making sincere efforts within one's own sell"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 47,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Our inmost well-being depends upon",
+    "options": {
+      "a": "Sharper intellect",
+      "b": "Nourishment of body and mind",
+      "c": "Acceptance of life energies",
+      "d": "Connect with supreme power"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 48,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The Divine Presence in each individual can be found through",
+    "options": {
+      "a": "One's own realization of divinity",
+      "b": "The whirls of our mind",
+      "c": "The surface self",
+      "d": "Knowing the nature of agitated mind"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 49,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "What is needed for the mind to be active?",
+    "options": {
+      "a": "Life energy",
+      "b": "Nourishment for body",
+      "c": "More knowledge",
+      "d": "Constant replenishment of energy"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 50,
+    "category": "Paper I",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The passage focusses on the",
+    "options": {
+      "a": "Need for body replenishment",
+      "b": "Intellectual thoughts",
+      "c": "Importance of connect with the Divine Presence",
+      "d": "Vital life energies"
+    },
+    "correctAnswer": "c"
+  }
 ]
+
 }
+
+
+
+
+
+
+
+
+
+
+
 
 
 
