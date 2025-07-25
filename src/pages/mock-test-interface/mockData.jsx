@@ -1403,6 +1403,1772 @@
     },
     "correctAnswer": "c"
   }
+],
+"2020 June":[
+  {
+    "id": 1,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "What is the difference between the total number of students who appeared in the exam and the total number of students who passed in the exam from Zone-K in all the six years taken together?",
+    "options": {
+      "a": "2060",
+      "b": "2070",
+      "c": "2080",
+      "d": "2090"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 2,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "What is the average number of students who passed in the exam from all the four Zones in the year 2015?",
+    "options": {
+      "a": "528",
+      "b": "529",
+      "c": "530",
+      "d": "531"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 3,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "For which of the following Zones, the percentage of students who passed out to the total of those who appeared in the examination is minimum in the year 2019?",
+    "options": {
+      "a": "K",
+      "b": "L",
+      "c": "M",
+      "d": "N"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 4,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "What is the ratio of the number of students who passed from Zone-K in the year 2017 compared to that in 2018?",
+    "options": {
+      "a": "7:5",
+      "b": "3:5",
+      "c": "5:7",
+      "d": "5:3"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 5,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The total number of students who passed from Zone-M in all the six years taken together is approximately what percentage of the total number of students who appeared from Zone-M in all the six years taken together?",
+    "options": {
+      "a": "56%",
+      "b": "58%",
+      "c": "60%",
+      "d": "64%"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 6,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Reflective level teaching is different from memory level teaching because the pattern of communication that is involved in reflective level teaching is basically",
+    "options": {
+      "a": "Linear",
+      "b": "Bottom-up",
+      "c": "Interactional",
+      "d": "Transactional"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 7,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "From the following, identify those features which are associated with ‘Indirect Instructional Strategies’",
+    "options": {
+      "a": "B, D and E only",
+      "b": "A, B and C only",
+      "c": "B, C and D only",
+      "d": "C, D and E only"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 8,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which one of the following assessment procedures is conducted during an in-progress teaching-learning session?",
+    "options": {
+      "a": "Summative",
+      "b": "Formative",
+      "c": "Norm-referenced",
+      "d": "Criterion-referenced"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 9,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Given below are two statements: Statement I: The use of ICT in organizing teaching-learning programmes in the universities has the potential to optimise learning outcomes. Statement II: Formative assessment provides support to enhancing the quality of teaching-learning sessions. In light of the above statements, choose the most appropriate answer from the options given below",
+    "options": {
+      "a": "Both Statement I and Statement II are correct",
+      "b": "Both Statement I and Statement II are incorrect",
+      "c": "Statement I is correct but Statement II is incorrect",
+      "d": "Statement I is incorrect but Statement II is correct"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 10,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Identify sampling procedures in which units are chosen giving an equal and independent chance",
+    "options": {
+      "a": "D and E only",
+      "b": "A and B only",
+      "c": "B and C only",
+      "d": "C and D only"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 11,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The research method which focuses on establishing causal relationships with controls among variables - independent, moderator and dependent, is called",
+    "options": {
+      "a": "Ex post facto method",
+      "b": "Survey method",
+      "c": "Case study method",
+      "d": "Experimental method"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 12,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "What are the characteristic features of the Quantitative Research paradigm?",
+    "options": {
+      "a": "A, C and D only",
+      "b": "A, B and C only",
+      "c": "B, C and D only",
+      "d": "C, D and E only"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 13,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "What is the usual sequence of steps in the scientific method?",
+    "options": {
+      "a": "B, C, A, E, D",
+      "b": "C, B, A, E, D",
+      "c": "B, A, C, E, D",
+      "d": "A, B, C, D, E"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 14,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "In communication, interpretation of the message depends upon",
+    "options": {
+      "a": "The context",
+      "b": "Transmission speed",
+      "c": "Associated noise",
+      "d": "Channel efficiency"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 15,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which of the following factors are important in communication?",
+    "options": {
+      "a": "A, B and C only",
+      "b": "B, C and D only",
+      "c": "A, D and E only",
+      "d": "C, D and E only"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 16,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The product of the ages of Sagun and Srishti is 240. If twice the age of Srishti is more than Sagun's age by 4 years, then what is Srishti's age?",
+    "options": {
+      "a": "15",
+      "b": "12",
+      "c": "10",
+      "d": "20"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 17,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Complete the following series: 9, 11, 15, 23, 39, ___?",
+    "options": {
+      "a": "71",
+      "b": "65",
+      "c": "44",
+      "d": "68"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 18,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Given below are two statements: Statement I: Sum of the angles of a triangle is 180°. Statement II: The sum of any two sides of a triangle is greater than the third side. In light of the above statements, choose the correct answer from the options given below",
+    "options": {
+      "a": "Both Statement I and Statement II are true",
+      "b": "Both Statement I and Statement II are false",
+      "c": "Statement I is correct but Statement II is false",
+      "d": "Statement I is incorrect but Statement II is true"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 19,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "If 30% of A=0.25 of B=1/5 of C, then which of the following is true about A:B:C?",
+    "options": {
+      "a": "10:11:12",
+      "b": "10:15:12",
+      "c": "10:12:15",
+      "d": "10:11:15"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 20,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "A, B, C, D, E and F are standing in a circle and looking at the centre. Only D is between A and B. Only F is between A and C. E is just left of B. Who is the only one standing between E and F?",
+    "options": {
+      "a": "A",
+      "b": "B",
+      "c": "D",
+      "d": "C"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 21,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "All things which have smoke have fire; This hill has smoke; Therefore, The hill has smoke; and No non-fiery things have smoke; This hill has smoke; Therefore, this hill is not non-fiery. The above is an example of which type of inference in Indian logic?",
+    "options": {
+      "a": "Punvavat",
+      "b": "Anvayavyatireki",
+      "c": "Kevalanvayi",
+      "d": "Kevalavyatireki"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 22,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Asidha is a fallacy when the middle term is",
+    "options": {
+      "a": "Unproved",
+      "b": "Too wide",
+      "c": "Too narrow",
+      "d": "Non-exclusive"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 23,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "A man is facing south-west. If he turns 90° in the anticlockwise direction and then 135° in the clockwise direction, which direction is he facing now?",
+    "options": {
+      "a": "West",
+      "b": "North-West",
+      "c": "North-East",
+      "d": "East"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 24,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "RAM is placed on",
+    "options": {
+      "a": "Hard Disk",
+      "b": "Extension board",
+      "c": "Motherboard",
+      "d": "Processor"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 25,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Given below are two statements: Statement I: Cache memory is faster than random access memory. Statement II: Random access memory is closer to the processor than cache memory. In light of the above statements, choose the most appropriate answer from the options given below",
+    "options": {
+      "a": "Both Statement I and Statement II are correct",
+      "b": "Both Statement I and Statement II are incorrect",
+      "c": "Statement I is correct but Statement II is incorrect",
+      "d": "Statement I is incorrect but Statement II is correct"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 26,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which one of the following is NOT a web browser?",
+    "options": {
+      "a": "Firefox",
+      "b": "Facebook",
+      "c": "Chrome",
+      "d": "Safari"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 27,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "URL stands for",
+    "options": {
+      "a": "Universal Resource Location",
+      "b": "Universal Response Locator",
+      "c": "Unified Response Location",
+      "d": "Uniform Resource Locator"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 28,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Identify the correct sequence of the following States Union of India in terms of increasing wind energy potential",
+    "options": {
+      "a": "D, C, B, A",
+      "b": "B, D, C, A",
+      "c": "B, C, A, D",
+      "d": "B, C, D, A"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 29,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Dissolved oxygen (DO), an important parameter of water quality, is essential for survival of",
+    "options": {
+      "a": "Humans",
+      "b": "Animals",
+      "c": "Fish",
+      "d": "Crops and vegetables"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 30,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Identify the correct sequence of sectoral global CO2 emissions in increasing order as per IPCC (2014) report",
+    "options": {
+      "a": "B, C, D, A",
+      "b": "B, C, A, D",
+      "c": "B, D, C, A",
+      "d": "B, D, A, C"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 31,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Under Goal 2 of Millenium Development Goals, UN member countries were to ensure that by 2015, children everywhere, boys and girls would be able to complete a full course of",
+    "options": {
+      "a": "Primary education",
+      "b": "Secondary education",
+      "c": "Tertiary education",
+      "d": "Skill based education"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 32,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Given below are two statements: Statement I: A deemed to be university is a non-affiliating university. Statement II: The teacher-student ratio in a deemed to be university must not be less than 1:10. In light of the above statements, choose the correct answer from the options given below",
+    "options": {
+      "a": "Both Statement I and Statement II are true",
+      "b": "Both Statement I and Statement II are false",
+      "c": "Statement I is correct but Statement II is false",
+      "d": "Statement I is incorrect but Statement II is true"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 33,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "According to the census of 2011, which state/union territory had the maximum number of graduates in relation to its population?",
+    "options": {
+      "a": "Uttar Pradesh",
+      "b": "Kerala",
+      "c": "Daman and Diu",
+      "d": "Chandigarh"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 34,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The full form of ‘NEAT’, a recently launched scheme of MHRD, Government of India, is",
+    "options": {
+      "a": "National Engineering Aptitude Test",
+      "b": "National Educational Alliance for Technology",
+      "c": "National Education Alliance for Testing",
+      "d": "National English Aptitude Test"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 35,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "An Inter-University Center for Yogic sciences has been set up by University Grants Commission in the state of",
+    "options": {
+      "a": "Karnataka",
+      "b": "Madhya Pradesh",
+      "c": "Uttrakhand",
+      "d": "Himachal Pradesh"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 36,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "According to Skinner, the superstitious behaviour of individuals is the outcome of",
+    "options": {
+      "a": "Constant exposure to an event",
+      "b": "Exposure to an event without regularity",
+      "c": "Occasional exposure to an event",
+      "d": "Natural exposure to an event"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 37,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The delivery of the reinforcer gets strengthened due to",
+    "options": {
+      "a": "The subjects involvement in the event",
+      "b": "Increase in the rate of reinforcement",
+      "c": "Factors such as deprivation",
+      "d": "The use of a mechanical device"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 38,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The example of a mechanical device reinforcing the subject's behaviour demonstrates",
+    "options": {
+      "a": "The automatic effect of reinforcement",
+      "b": "The illusion of reinforcement",
+      "c": "The discrepancy in subject's behaviour",
+      "d": "The belief that every reaction is an act of reinforcement"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 39,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The procedure of shaping a subject's behaviour is related to his",
+    "options": {
+      "a": "A and B only",
+      "b": "B and C only",
+      "c": "C and D only",
+      "d": "A and D only"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 40,
+    "category": "General Aptitude",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The responses that are not in the emission list of a subject can be observed by",
+    "options": {
+      "a": "Coercive measures",
+      "b": "Creating suitable environmental conditions",
+      "c": "Inhibiting his natural emission behavior",
+      "d": "Using mechanical devices for reinforcement"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 41,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The deductive method differs from the inductive method in drawing its conclusions from:",
+    "options": {
+      "a": "verification",
+      "b": "particular instances",
+      "c": "applications",
+      "d": "general truths"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 42,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which one of the following journals publishes articles related to critical theory exclusively?",
+    "options": {
+      "a": "Salmagundi",
+      "b": "Diacritics",
+      "c": "Callaloo",
+      "d": "Grand Street"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 43,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which one of the following assumptions best expresses the position of Post-Structuralist criticism?",
+    "options": {
+      "a": "Definite structures underlie empirical events",
+      "b": "Language is representational",
+      "c": "Apprehension of reality is a construct",
+      "d": "Knowledge operates according to procedures that are axiomatic"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 44,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which one of the following is correct about Saussure's analysis of language?",
+    "options": {
+      "a": "La langue is the system of a language",
+      "b": "Parole focuses on language as a system at a particular time",
+      "c": "La langue is the particular instance of speech and writing",
+      "d": "Parole is the study of language over a period of time"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 45,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Who among the following theorists particularly emphasized the social and historical dimensions of a text's reception?",
+    "options": {
+      "a": "Wolfgang Iser",
+      "b": "Stanley Fish",
+      "c": "Hans Robert Jauss",
+      "d": "Pierre Bourdieu"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 46,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which one among the following is a set of the Metaphysical Poets?",
+    "options": {
+      "a": "John Dryden, George Herbert, and Alexander Pope",
+      "b": "Henry Vaughan, John Dryden, and John Donne",
+      "c": "John Donne, Henry Vaughan, and Andrew Marvell",
+      "d": "Samuel Johnson, T.S. Eliot and Herbert Grierson"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 47,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which one of the following statements is true about Aristotle's poetics?",
+    "options": {
+      "a": "He asserted the value of poetry by integrating rhetoric and imitation (mimesis)",
+      "b": "He asserted the value of poetry by focusing on both rhetoric and imitation (mimesis)",
+      "c": "He asserted the value of poetry by giving preference to rhetoric over imitation (mimesis)",
+      "d": "He asserted the value of poetry by focusing on imitation (mimesis) rather than rhetoric"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 48,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Who said of the blank verse, quoting an unnamed critic, that it is '...verse only to the eye', adding further that it 'has neither the easiness of prose, nor the melody of numbers'?",
+    "options": {
+      "a": "John Dryden",
+      "b": "Alexander Pope",
+      "c": "Samuel Taylor Coleridge",
+      "d": "Samuel Johnson"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 49,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Poetry according to Sir Philip Sidney is of three kinds. They are:",
+    "options": {
+      "a": "religious, dramatic, romantic",
+      "b": "classical, romantic, neo-classical",
+      "c": "philosophical, imaginative, narrative",
+      "d": "religious, philosophical, imaginative"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 50,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "In Anxiety of Influence which of the following definitions is given by Harold Bloom to explain the term, 'clinamen'?",
+    "options": {
+      "a": "poetic hyperbole",
+      "b": "poetic misprision",
+      "c": "poetic sublime",
+      "d": "poetic supplement"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 51,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Who among the following is known to have popularized the term 'glocalization'?",
+    "options": {
+      "a": "Ronald Robertson",
+      "b": "Francis Fukuyama",
+      "c": "John Urry",
+      "d": "John Tomlinson"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 52,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Who among the following coined the dictum, 'the medium is the message'?",
+    "options": {
+      "a": "Raymond Williams",
+      "b": "Erving Goffman",
+      "c": "Marshall McLuhan",
+      "d": "John Fiske"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 53,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Who among the following presented the concept of 'multi-accentuality' of the sign, saying that signs possess an 'inner dialectical quality' and 'evaluative accent'?",
+    "options": {
+      "a": "Roland Barthes",
+      "b": "Stuart Hall",
+      "c": "Jacques Derrida",
+      "d": "Valentin Voloshinov"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 54,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "On December 11, 1823, Rammohan Roy addressed a letter to the British authority which pleaded for modern western education and is considered historically important for the introduction of English education in India. Who was the letter addressed to?",
+    "options": {
+      "a": "Lord Amherst",
+      "b": "Lord Minto",
+      "c": "Lord Macaulay",
+      "d": "Lord Bentick"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 55,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which British administrator sought 'to make everything as English as possible in a country which resembles England in nothing', as recorded by Sir Thomas Munro?",
+    "options": {
+      "a": "Lord Bentick",
+      "b": "Lord Hastings",
+      "c": "Lord Cornwallis",
+      "d": "Lord Wellesley"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 56,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Who among the following was the first Director of the Central Institute of English and Foreign Languages, Hyderabad (now EFL University)?",
+    "options": {
+      "a": "Prof V.K. Gokak",
+      "b": "Prof C.D. Narasimhaiah",
+      "c": "Prof C.J. Daswani",
+      "d": "Prof K. R. S. Iyengar"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 57,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which one of the following best explains the term 'paralanguage'?",
+    "options": {
+      "a": "The ways in which people mask what they mean by the words they use",
+      "b": "The ways in which people show what they mean other than by the words they use",
+      "c": "The ways in which words carry meanings unintended by the speaker",
+      "d": "The ways in which the silence underlying speech communicates wrong meanings"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 58,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which two of the following oppositions are best evoked by Hamlet's utterance - 'To be or not to be'?",
+    "options": {
+      "a": "A and D only",
+      "b": "B and D only",
+      "c": "C and A only",
+      "d": "D and C only"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 59,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Who among the following linguists proposed the terms, 'competence' and 'performance'?",
+    "options": {
+      "a": "Noah Webster",
+      "b": "Steven Pinker",
+      "c": "Roman Jakobson",
+      "d": "Noam Chomsky"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 60,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which one of these statements defines the scope of semiotics?",
+    "options": {
+      "a": "Semiotics studies the sound systems of a language",
+      "b": "Semiotics is a study of sign systems",
+      "c": "Semiotics studies human sign system only",
+      "d": "Semiotics is a study of non-human sign systems only"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 61,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which according to Thomas Hobbes is the only 'science' God has bestowed on mankind, that informs the structure of his monumental work, Leviathan?",
+    "options": {
+      "a": "Astronomy",
+      "b": "Architecture",
+      "c": "Occult sciences",
+      "d": "Geometry"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 62,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "As mentioned in 'My First Acquaintance with Poets' which poet does William Hazlitt describe as the 'only person I ever knew who answered the idea of a man of genius'?",
+    "options": {
+      "a": "Coleridge",
+      "b": "Wordsworth",
+      "c": "Byron",
+      "d": "Shelley"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 63,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which one of the following essays holds that 'As a method, realism is a complete failure'?",
+    "options": {
+      "a": "Virginia Woolf, 'The Mark on the Wall'",
+      "b": "Oscar Wilde, 'The Decay of Lying'",
+      "c": "D. H Lawrence, 'Why the Novel Matters'",
+      "d": "Mary McCarthy, 'My Confession'"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 64,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which of the following novels is structured into a poem of 999 lines, preceded by a Foreword, followed by a Commentary and an Index?",
+    "options": {
+      "a": "Ragtime",
+      "b": "Pale Fire",
+      "c": "The Inner Side of the Wind",
+      "d": "Hourglass"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 65,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which among the following novels includes a questionnaire for the reader such as 'Do you like the story so far? Yes ( ) No ( )'?",
+    "options": {
+      "a": "Mantissa by John Fowles",
+      "b": "Waterland by Graham Swift",
+      "c": "Snow White by Donald Barthelme",
+      "d": "If on a Winter's Night a Traveller by Italo Calvino"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 66,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "What is the subject of Ivan's controversial essay in Brothers Karamazov?",
+    "options": {
+      "a": "Transubstantiation",
+      "b": "The evils of clergy",
+      "c": "The Eucharist",
+      "d": "Ecclesiastical courts"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 67,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Harold Skimpole is a character in:",
+    "options": {
+      "a": "Bleak House",
+      "b": "Dombey and Son",
+      "c": "Great Expectations",
+      "d": "Oliver Twist"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 68,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Who is the author of 'A Fragment' (1819), one of the earliest vampire stories in English?",
+    "options": {
+      "a": "P.B. Shelley",
+      "b": "Lord Byron",
+      "c": "Bram Stoker",
+      "d": "Mary Shelley"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 69,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Lala Kanshi Ram is a character in:",
+    "options": {
+      "a": "Arun Joshi's The Apprentice",
+      "b": "Chaman Nahal's Azadi",
+      "c": "Anita Desai's Fire on the Mountain",
+      "d": "Kamala Markandaya's A Handful of Rice"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 70,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which of the following poems by Philip Larkin deals with the trauma of a rape victim who says 'Even so distant, I can taste the grief'?",
+    "options": {
+      "a": "'Deceptions'",
+      "b": "'Faith Healing'",
+      "c": "'Sad Steps'",
+      "d": "'Wild Oats'"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 71,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "In which of the Bog poems does Seamus Heaney speak about the 'perishable treasure' of a body 'Murdered, forgotten, nameless, terrible'?",
+    "options": {
+      "a": "'Bog Queen'",
+      "b": "'Grauballe Man'",
+      "c": "'Punishment'",
+      "d": "'Strange Fruit'"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 72,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which book of Paradise Lost incorporates the speech rhythms of Adam and Eve's marital quarrel?",
+    "options": {
+      "a": "Book 4",
+      "b": "Book 6",
+      "c": "Book 7",
+      "d": "Book 9"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 73,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Who among the following wrote Mazappa, a long narrative poem about a seventeenth-century military leader of Ukraine?",
+    "options": {
+      "a": "William Cowper",
+      "b": "Lord Byron",
+      "c": "P.B. Shelley",
+      "d": "S. T. Coleridge"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 74,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which one of the following statements is appropriately true of Harold Pinter's plays?",
+    "options": {
+      "a": "Menace is in the air and it leads to bloody violence",
+      "b": "Menace is in the air and it is realized through the female characters",
+      "c": "Menace is in the air, but it is not pinned down, or explained",
+      "d": "Menace is in the air and anarchy follows in a systematic manner"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 75,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "To which mythological character is Faustus compared in the Prologue of Dr. Faustus?",
+    "options": {
+      "a": "Perseus",
+      "b": "Theseus",
+      "c": "Icarus",
+      "d": "Achilles"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 76,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Who makes the following speech in Samuel Beckett's Waiting for Godot? 'Astride of a grave and a difficult birth. Down in the hole, lingeringly, the grave-digger puts on the forceps.'",
+    "options": {
+      "a": "Estragon",
+      "b": "Lucky",
+      "c": "Vladimir",
+      "d": "Pozzo"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 77,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which of the following are the major themes in William Congreve's The Way of the World?",
+    "options": {
+      "a": "jealousy and revenge",
+      "b": "love and intrigue",
+      "c": "intrigue and death",
+      "d": "love and loyalty"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 78,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "What game do the characters play in Act II of Harold Pinter's The Birthday Party?",
+    "options": {
+      "a": "A game of chess",
+      "b": "A game of cards",
+      "c": "Blind man's buff",
+      "d": "Musical chairs"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 79,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The Duchess of Malfi is based on:",
+    "options": {
+      "a": "a French romance",
+      "b": "an Italian novella",
+      "c": "a German fable",
+      "d": "a Scottish chronicle"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 80,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which two of the following strictly follow the parameters of documentation prescribed by the eighth edition of the MLA Handbook?",
+    "options": {
+      "a": "A and B only",
+      "b": "A and C only",
+      "c": "A and D only",
+      "d": "B and C only"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 81,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "A research hypothesis is:",
+    "options": {
+      "a": "A and B only",
+      "b": "B and C only",
+      "c": "B and D only",
+      "d": "A and C only"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 82,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which two of the following aspects are to be scrupulously followed to avoid the trap of plagiarism?",
+    "options": {
+      "a": "A and B only",
+      "b": "A and C only",
+      "c": "C and D only",
+      "d": "B and C only"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 83,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which two texts among the following are linked to literary feminism?",
+    "options": {
+      "a": "A and D only",
+      "b": "C and D only",
+      "c": "B and D only",
+      "d": "A and C only"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 84,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Who among the following feminist theorists posited a separate realm of female experience captured in a style of writing different from men's?",
+    "options": {
+      "a": "A, C and D only",
+      "b": "B and D only",
+      "c": "C, D and E only",
+      "d": "B and E only"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 85,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which of these statements describe correctly the basic assumption of Structuralism?",
+    "options": {
+      "a": "A, C and E only",
+      "b": "A, D and E only",
+      "c": "A, B and C only",
+      "d": "A, B and E only"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 86,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which two terms among the following are associated with formalist criticism?",
+    "options": {
+      "a": "A and C only",
+      "b": "B and D only",
+      "c": "B and C only",
+      "d": "D and E only"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 87,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Who among the following believed that rhyme is not an integral part of poetry?",
+    "options": {
+      "a": "A and C only",
+      "b": "B and D only",
+      "c": "A and D only",
+      "d": "D and C only"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 88,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Who among the following are the two great masters of the French language that T. S Eliot contrasts with Dryden and Milton in 'The Metaphysical Poets'?",
+    "options": {
+      "a": "A and C only",
+      "b": "A and D only",
+      "c": "B and C only",
+      "d": "B and D only"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 89,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which two terms from among the following are specifically linked to the work of Pierre Bourdieu?",
+    "options": {
+      "a": "A and C only",
+      "b": "A and D only",
+      "c": "B and D only",
+      "d": "C and D only"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 90,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Macaulay's Minute of 1835 sought to:",
+    "options": {
+      "a": "A and D only",
+      "b": "B and D only",
+      "c": "A and C only",
+      "d": "B and C only"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 91,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which two of the following statements are applicable to 'metalanguage'?",
+    "options": {
+      "a": "A and B only",
+      "b": "C and D only",
+      "c": "A and D only",
+      "d": "B and C only"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 92,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "'Hari wrote a poem on the mountains'. Which two of the following are admissible statements about the above sentence?",
+    "options": {
+      "a": "A and B only",
+      "b": "B and C only",
+      "c": "B and D only",
+      "d": "C and D only"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 93,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which two of the following events are described in Samuels Pepys's Diary?",
+    "options": {
+      "a": "A and B only",
+      "b": "A and C only",
+      "c": "B and C only",
+      "d": "B and D only"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 94,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which two of the following inspired the rise of the periodical essay?",
+    "options": {
+      "a": "C and A only",
+      "b": "A and B only",
+      "c": "C and D only",
+      "d": "B and D only"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 95,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which two of the following works does Walter Pater regard as examples of 'great art' in his essay 'Style'?",
+    "options": {
+      "a": "A and B only",
+      "b": "A and D only",
+      "c": "B and C only",
+      "d": "B and D only"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 96,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "According to his essay 'Civil Disobedience', what two things did Thoreau learn from the night he spent in jail?",
+    "options": {
+      "a": "A and B only",
+      "b": "A and C only",
+      "c": "A and D only",
+      "d": "C and D only"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 97,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which two of the following are the titles of the sections in Thomas De Quincey's 'The English Mail - Coach'?",
+    "options": {
+      "a": "A and B only",
+      "b": "A and D only",
+      "c": "B and C only",
+      "d": "B and D only"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 98,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which two of the following books are explorations of the art of the novel by novelists?",
+    "options": {
+      "a": "A and B only",
+      "b": "A and C only",
+      "c": "B and C only",
+      "d": "B and D only"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 99,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "The lives of which of the following writers have been the subject matter of novels by Anthony Burgess?",
+    "options": {
+      "a": "A and B only",
+      "b": "A and D only",
+      "c": "B and C only",
+      "d": "B and D only"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 100,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which two rivers are mentioned by Andrew Marvell at the beginning of 'To His Coy Mistress'?",
+    "options": {
+      "a": "A and D only",
+      "b": "A and B only",
+      "c": "A and C only",
+      "d": "B and C only"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 101,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which two poems in the following list are examples of dramatic monologue?",
+    "options": {
+      "a": "A and D only",
+      "b": "B and C only",
+      "c": "C and D only",
+      "d": "A and C only"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 102,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which two of the following poems are by Robert Browning?",
+    "options": {
+      "a": "A and D only",
+      "b": "B and C only",
+      "c": "A and C only",
+      "d": "B and D only"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 103,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which two of the following dramatists are associated with the Epic Theatre?",
+    "options": {
+      "a": "A and B only",
+      "b": "B and C only",
+      "c": "A and D only",
+      "d": "B and D only"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 104,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Which two characters/speakers among the following exhibit the studious abstraction of scholars?",
+    "options": {
+      "a": "A and D only",
+      "b": "B and C only",
+      "c": "C and D only",
+      "d": "A and C only"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 105,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Match List I with List II",
+    "options": {
+      "a": "A - IV, B - II, C - I, D - III",
+      "b": "A - III, B - I, C - II, D - IV",
+      "c": "A - III, B - IV, C - I, D - II",
+      "d": "A - IV, B - I, C - II, D - III"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 106,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Match List I with List II",
+    "options": {
+      "a": "A - III, B - II, C - IV, D - I",
+      "b": "A - III, B - I, C - IV, D - II",
+      "c": "A - IV, B - I, C - III, D - II",
+      "d": "A - II, B - I, C - IV, D - III"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 107,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Match List I with List II",
+    "options": {
+      "a": "A - II, B - I, C - IV, D - III",
+      "b": "A - III, B - IV, C - II, D - I",
+      "c": "A - III, B - IV, C - I, D - II",
+      "d": "A - II, B - IV, C - I, D - III"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 108,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Match List I with List II",
+    "options": {
+      "a": "A - IV, B - I, C - II, D - III",
+      "b": "B - III, C - IV, D - I, A - II",
+      "c": "A - IV, B - III, C - I, D - II",
+      "d": "B - III, C - I, D - IV, A - II"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 109,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Match List I with List II",
+    "options": {
+      "a": "A - I, B - III, C - II, D - IV",
+      "b": "A - IV, B - III, C - II, D - I",
+      "c": "A - III, B - IV, C - I, D - II",
+      "d": "A - III, B - IV, C - II, D - I"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 110,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Match List I with List II",
+    "options": {
+      "a": "A - IV, B - I, C - II, D - III",
+      "b": "A - II, B - IV, C - I, D - III",
+      "c": "A - I, B - III, C - II, D - IV",
+      "d": "A - III, B - I, C - IV, D - II"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 111,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Match List I with List II",
+    "options": {
+      "a": "A - IV, B - III, C - I, D - II",
+      "b": "A - IV, B - II, C - I, D - III",
+      "c": "A - II, B - III, C - I, D - IV",
+      "d": "A - II, B - I, C - IV, D - III"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 112,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Match List I with List II",
+    "options": {
+      "a": "A - III, B - IV, C - II, D - I",
+      "b": "A - III, B - I, C - IV, D - II",
+      "c": "A - III, B - IV, C - I, D - II",
+      "d": "A - II, B - I, C - IV, D - III"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 113,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Match List I with List II",
+    "options": {
+      "a": "A - III, B - I, C - IV, D - II",
+      "b": "A - III, B - IV, C - I, D - II",
+      "c": "A - I, B - IV, C - III, D - II",
+      "d": "A - IV, B - II, C - I, D - III"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 114,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Arrange the following terms in the chronological order of emergence:",
+    "options": {
+      "a": "D, B, C, A",
+      "b": "B, D, A, C",
+      "c": "B, D, C, A",
+      "d": "D, C, B, A"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 115,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Arrange the following critical works in their chronological order of publication:",
+    "options": {
+      "a": "A, C, B and D",
+      "b": "B, A, C and D",
+      "c": "B, C, A and D",
+      "d": "C, A, D and B"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 116,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Arrange the following in the chronological order of publication:",
+    "options": {
+      "a": "D, B, A, C",
+      "b": "C, B, A, D",
+      "c": "B, D, A, C",
+      "d": "B, A, D, C"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 117,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Arrange the following in the chronological order of publication:",
+    "options": {
+      "a": "D, A, C, B",
+      "b": "D, A, B, C",
+      "c": "A, D, C, B",
+      "d": "A, D, B, C"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 118,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Arrange the following 18th-century magazines in the chronological order of publication:",
+    "options": {
+      "a": "A, D, B, C",
+      "b": "D, A, B, C",
+      "c": "B, A, C, D",
+      "d": "C, B, D, A"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 119,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Arrange the following in the chronological order of publication:",
+    "options": {
+      "a": "B, A, D, C",
+      "b": "A, B, D, C",
+      "c": "A, C, B, D",
+      "d": "B, D, A, C"
+    },
+    "correctAnswer": "d"
+  },
+  {
+    "id": 120,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Arrange the following women novelists in the chronological order (by date of birth):",
+    "options": {
+      "a": "B, A, D, C, E",
+      "b": "C, D, B, E, A",
+      "c": "D, C, E, B, A",
+      "d": "A, B, C, E, D"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 121,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Arrange the following authors in the chronological order of their birth:",
+    "options": {
+      "a": "B, C, D, E, A",
+      "b": "A, B, C, E, D",
+      "c": "B, C, D, A, E",
+      "d": "C, B, A, D, E"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 122,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Arrange the following plays in their chronological order:",
+    "options": {
+      "a": "B, A, C, D",
+      "b": "B, C, D, A",
+      "c": "C, B, A, D",
+      "d": "C, A, B, D"
+    },
+    "correctAnswer": "c"
+  },
+  {
+    "id": 123,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Arrange the following plays in the chronological order of publication:",
+    "options": {
+      "a": "B, C, A, D",
+      "b": "D, A, B, C",
+      "c": "C, B, D, A",
+      "d": "A, D, C, B"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 124,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R. Assertion A: Research methods are a range of tools that are used for different types of inquiry. Reason R: The tools used in research are products of the situations in which they are applied. In light of the above statements, choose the correct answer from the options given below:",
+    "options": {
+      "a": "Both A and R are true and R is the correct explanation of A",
+      "b": "Both A and R are true and R is NOT the correct explanation of A",
+      "c": "A is true but R is false",
+      "d": "A is false but R is true"
+    },
+    "correctAnswer": "b"
+  },
+  {
+    "id": 125,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R. Assertion A: Signs are never neutral or innocent. Reason R: In all cases signs are organized into systems that convey some meaning. In light of the above statements, choose the correct answer from the options given below",
+    "options": {
+      "a": "Both A and R are true and R is the correct explanation of A",
+      "b": "Both A and R are true but R is NOT the correct explanation of A",
+      "c": "A is true but R is false",
+      "d": "A is false but R is true"
+    },
+    "correctAnswer": "a"
+  },
+  {
+    "id": 126,
+    "category": "English",
+    "difficulty": "Medium",
+    "marks": 2,
+    "text": "Given below are two statements: Statement I: Consumption is an outcome of self-interest and a maximization of personal pleasure. Statement II: There are strong correlations between social status and such things as housing styles, musical tastes and food preferences. In light of the above statements, choose the correct answer from the options given below:",
+    "options": {
+      "a": "Both Statement I and Statement II are true",
+      "b": "Both Statement I and Statement II are false",
+      "c": "Statement I is correct but Statement II is false",
+      "d": "Statement I is incorrect but Statement II is true"
+    },
+    "correctAnswer": "a"
+  },
 ]
 
 }
