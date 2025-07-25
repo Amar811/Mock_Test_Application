@@ -21,20 +21,22 @@ const ResultsDashboard = () => {
   const [allQuestions, setAllQuestions] = useState([]);
 
   console.log("testResults", testResults);
-
-  // 🔥 ADDED - Load test data from localStorage
   useEffect(() => {
     const storedResults = localStorage.getItem("testResults");
+    console.log("mock stored result", storedResults);
     if (storedResults) {
       const parsed = JSON.parse(storedResults);
 
-      const questionsWithAnswers = parsed.questions.map((q) => {
-        const userAnswer = parsed.answers[q.id] || null;
+      const questionEntries = Object.values(parsed.questions || {}).flat();
+
+      const questionsWithAnswers = questionEntries.map((q) => {
+        const userAnswer = parsed.answers?.[q.id] || null;
+
         return {
           id: q.id,
           text: q.text,
-          options: Object.values(q.options),
-          correctAnswer: q.correctAnswer.toUpperCase(),
+          options: q.options ? Object.entries(q.options) : [],
+          correctAnswer: q.correctAnswer?.toUpperCase(),
           userAnswer: userAnswer ? userAnswer.toUpperCase() : null,
           timeSpent: "N/A",
           explanation: q.explanation || "",
@@ -62,8 +64,8 @@ const ResultsDashboard = () => {
         unanswered: unanswered,
         percentage: Math.round((correct / parsed.totalQuestions) * 100),
         score: correct, // ✅ Add this line
-       timeTaken: parsed.timeTaken || "N/A",     
-       timeLimit: parsed.timeLimit || "N/A"  
+        timeTaken: parsed.timeTaken || "N/A",
+        timeLimit: parsed.timeLimit || "N/A",
       });
     }
   }, []);
