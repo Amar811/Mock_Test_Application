@@ -44,7 +44,9 @@ const TestSelectionDashboard = () => {
       iconName: 'Briefcase',
       difficulty: 'Hard',
       lastScore: 85,
-      isRecommended: false
+      isRecommended: false,
+
+      
     }
   ];
 
@@ -231,8 +233,10 @@ const TestSelectionDashboard = () => {
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
               {testCategories.map((category) => (
                 <TestCategoryCard
+                 isdisabled={category.testType==="paper2"}
                   key={category.testType}
                   {...category}
+                  
                 />
               ))}
             </div>

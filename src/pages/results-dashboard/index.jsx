@@ -20,15 +20,16 @@ const ResultsDashboard = () => {
   const [testResults, setTestResults] = useState(null);
   const [allQuestions, setAllQuestions] = useState([]);
 
-  console.log("testResults", testResults);
+  console.log(allQuestions);
   useEffect(() => {
     const storedResults = localStorage.getItem("testResults");
-    console.log("mock stored result", storedResults);
     if (storedResults) {
       const parsed = JSON.parse(storedResults);
+      const selectedSession =
+        parsed.selectedSession || Object.keys(parsed.questions)[0];
 
-      const questionEntries = Object.values(parsed.questions || {}).flat();
-
+      const questionEntries = parsed.questions[selectedSession] || [];
+      
       const questionsWithAnswers = questionEntries.map((q) => {
         const userAnswer = parsed.answers?.[q.id] || null;
 

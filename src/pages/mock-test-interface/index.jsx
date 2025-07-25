@@ -101,10 +101,12 @@ const MockTestInterface = () => {
   };
 
   const handleConfirmSubmit = () => {
-    // Calculate results and navigate to results page
     const results = {
       answers,
-      questions: mockQuestions,
+      questions: {
+        [selectedYearQuestion]: mockQuestions[selectedYearQuestion], // ✅ Only that session
+      },
+      selectedSession: selectedYearQuestion, // ✅ Add for later use
       totalQuestions,
       answeredCount,
       markedCount,
@@ -113,32 +115,28 @@ const MockTestInterface = () => {
       timeLimit: "60:00",
     };
 
-   
-
     // Store results in localStorage for the results page
     localStorage.setItem("testResults", JSON.stringify(results));
-    console.log("mock result",results)
+   
     navigate("/results-dashboard");
   };
 
- const handleYearQuestionChange = (e) => {
-  const year = e.target.value;
+  const handleYearQuestionChange = (e) => {
+    const year = e.target.value;
 
-  if (mockQuestions[year]) {
-    setSelectedYearQuestion(year);      
-    setCurrentQuestion(1);              
-  }
-};
+    if (mockQuestions[year]) {
+      setSelectedYearQuestion(year);
+      setCurrentQuestion(1);
+    }
+  };
 
-
-useEffect(()=>{
-   const year="2022 October";
-   if(mockQuestions[year]){
-    setSelectedYearQuestion(year);
-    setCurrentQuestion(1);
-   }
-
-},[mockQuestions])
+  useEffect(() => {
+    const year = "2022 October";
+    if (mockQuestions[year]) {
+      setSelectedYearQuestion(year);
+      setCurrentQuestion(1);
+    }
+  }, [mockQuestions]);
 
   // Keyboard navigation
   useEffect(() => {

@@ -1,38 +1,43 @@
-import React from 'react';
-import { useNavigate } from 'react-router-dom';
-import Icon from '../../../components/AppIcon';
-import Button from '../../../components/ui/Button';
+import React from "react";
+import { useNavigate } from "react-router-dom";
+import Icon from "../../../components/AppIcon";
+import Button from "../../../components/ui/Button";
 
-const TestCategoryCard = ({ 
-  testType, 
-  title, 
-  description, 
-  duration, 
-  totalQuestions, 
-  iconName, 
+const TestCategoryCard = ({
+  testType,
+  title,
+  description,
+  duration,
+  totalQuestions,
+  iconName,
   difficulty,
   lastScore,
-  isRecommended = false 
+  isRecommended = false,
+  isdisabled = false,
 }) => {
   const navigate = useNavigate();
 
   const handleStartTest = () => {
-    navigate('/mock-test-interface', { 
-      state: { 
-        testType, 
-        title, 
-        duration, 
-        totalQuestions 
-      } 
+    navigate("/mock-test-interface", {
+      state: {
+        testType,
+        title,
+        duration,
+        totalQuestions,
+      },
     });
   };
 
   const getDifficultyColor = (level) => {
     switch (level) {
-      case 'Easy': return 'text-success bg-success/10';
-      case 'Medium': return 'text-warning bg-warning/10';
-      case 'Hard': return 'text-destructive bg-destructive/10';
-      default: return 'text-text-secondary bg-muted';
+      case "Easy":
+        return "text-success bg-success/10";
+      case "Medium":
+        return "text-warning bg-warning/10";
+      case "Hard":
+        return "text-destructive bg-destructive/10";
+      default:
+        return "text-text-secondary bg-muted";
     }
   };
 
@@ -49,18 +54,18 @@ const TestCategoryCard = ({
       <div className="flex items-start justify-between mb-4">
         <div className="flex items-center space-x-3">
           <div className="flex items-center justify-center w-12 h-12 bg-primary/10 rounded-lg group-hover:bg-primary/20 transition-colors duration-200">
-            <Icon 
-              name={iconName} 
-              size={24} 
-              className="text-primary"
-            />
+            <Icon name={iconName} size={24} className="text-primary" />
           </div>
           <div>
             <h3 className="text-lg font-heading font-semibold text-text-primary">
               {title}
             </h3>
             <div className="flex items-center space-x-2 mt-1">
-              <span className={`px-2 py-1 rounded-full text-xs font-medium ${getDifficultyColor(difficulty)}`}>
+              <span
+                className={`px-2 py-1 rounded-full text-xs font-medium ${getDifficultyColor(
+                  difficulty
+                )}`}
+              >
                 {difficulty}
               </span>
               {lastScore && (
@@ -91,7 +96,9 @@ const TestCategoryCard = ({
           <Icon name="FileText" size={16} className="text-text-secondary" />
           <div>
             <p className="text-xs text-text-secondary">Questions</p>
-            <p className="text-sm font-medium text-text-primary">{totalQuestions}</p>
+            <p className="text-sm font-medium text-text-primary">
+              {totalQuestions}
+            </p>
           </div>
         </div>
       </div>
@@ -106,8 +113,9 @@ const TestCategoryCard = ({
         iconPosition="left"
         iconSize={18}
         className="group-hover:bg-primary/90 transition-colors duration-200"
+        disabled={isdisabled}
       >
-        Start Test
+        {isdisabled ? "Start Test" : "Start Test"}
       </Button>
     </div>
   );
